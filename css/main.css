@@ -1,0 +1,9 @@
+#futurama {
+  display: block;
+  margin: 20px auto;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+}
